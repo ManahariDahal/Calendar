@@ -1,16 +1,3 @@
-// Name: Manahari Dahal     Date Assigned: 13 April 2017
-
-// Course: CSCI 2003 42733  Date Due: 27 April 2017
-
-// Instructor: Ms. Greer
-//
-// File name: Calendar
-//
-// Program Description: A program that creates a single month of a calendar based on user input and asks the
-//                      user for the year, month, and day of the week of the first day of the month
-//
-
-
 // importing Scanner class
 import java.util.Scanner;
 import java.util.*;     // importing other classes
